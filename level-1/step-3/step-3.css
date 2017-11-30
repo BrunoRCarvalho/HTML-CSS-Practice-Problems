@@ -6,6 +6,10 @@
 
 .content-mid-header {
   background: #444;
+  padding-top: 100px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 50px;
 }
 
 .content-container {
@@ -13,5 +17,9 @@
 }
 
 .content {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  height: 350px;
   background: #D8D8D8;
+  text-align: center;
 }
